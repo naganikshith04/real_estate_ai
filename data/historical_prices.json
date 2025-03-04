@@ -1,0 +1,9152 @@
+[
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 8424
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 8676
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 6886
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 8264
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 8549
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 7925
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 9467
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 5361
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 6396
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 7640
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 6525
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 8900
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 4985
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 7428
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 9166
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 8970
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 6410
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 4287
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 9410
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 8715
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 5275
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 8157
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 4135
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 8854
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2020-03",
+    "avg_price_per_sqft": 6391
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 5345
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 5352
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 8745
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 6254
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 6530
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 9503
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 8231
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 7425
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 6612
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 9404
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 5613
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 6502
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 7442
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 4194
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 9434
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 4484
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 7291
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 7405
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 9194
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 10114
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 6585
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 7324
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 7297
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 6584
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2020-04",
+    "avg_price_per_sqft": 4433
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 7150
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 5371
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 6223
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 4870
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 5222
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 7344
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 9397
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 9977
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 8632
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 9112
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 6100
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 7162
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 7657
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 7748
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 9849
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 8623
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 4478
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 6453
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 7999
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 7335
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 6071
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 6141
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 4395
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 4514
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2020-05",
+    "avg_price_per_sqft": 5449
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 8605
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 8614
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 7593
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 7321
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 6530
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 7663
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 9281
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 9804
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 7286
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 4529
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 5558
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 7556
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 6268
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 4959
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 7817
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 6534
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 9861
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 8109
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 9522
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 6987
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 4355
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 6114
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 4131
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 6779
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2020-06",
+    "avg_price_per_sqft": 6538
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 5176
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 6097
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 7328
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 9353
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 5486
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 4913
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 7553
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 9209
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 7887
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 4711
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 9062
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 6975
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 4702
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 4571
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 4487
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 7110
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 7516
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 8535
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 8279
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 6667
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 9104
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 6842
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 5415
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 9458
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2020-07",
+    "avg_price_per_sqft": 5786
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 6010
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 7770
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 7604
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 8069
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 10291
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 10339
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 7971
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 6649
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 4785
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 4589
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 4249
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 7872
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 6104
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 9583
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 9468
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 4483
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 4560
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 5027
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 8083
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 5023
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 8899
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 7712
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 7570
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 9107
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2020-08",
+    "avg_price_per_sqft": 8953
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 4837
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 6277
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 6080
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 8400
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 7989
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 6727
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 5142
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 9197
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 4548
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 6353
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 5991
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 7521
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 8411
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 7752
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 8340
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 7942
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 6263
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 5105
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 6720
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 7172
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 8161
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 10148
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 5293
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 6047
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2020-09",
+    "avg_price_per_sqft": 8537
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 7769
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 9632
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 9931
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 7545
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 8876
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 5526
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 7415
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 6925
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 5890
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 5702
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 8493
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 9455
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 6578
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 7518
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 5891
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 4094
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 6711
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 4468
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 6198
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 9278
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 7878
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 8329
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 8002
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 7973
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2020-10",
+    "avg_price_per_sqft": 4137
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 8268
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 8651
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 4387
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 8842
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 6873
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 8585
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 8043
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 5074
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 8342
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 9512
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 6048
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 9603
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 8984
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 4889
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 7103
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 7352
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 9215
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 5519
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 7662
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 4293
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 7222
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 6995
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 5386
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 9907
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2020-11",
+    "avg_price_per_sqft": 5591
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 6410
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 7366
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 7412
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 8745
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 6925
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 4549
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 5992
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 7882
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 8735
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 8509
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 9944
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 5828
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 7048
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 7824
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 4630
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 8603
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 9391
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 8665
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 9245
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 9775
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 9196
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 7308
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 9240
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 5147
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2020-12",
+    "avg_price_per_sqft": 4274
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 7790
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 5743
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 5153
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 10535
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 7969
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 9756
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 9805
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 5345
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 5018
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 7647
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 9573
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 4973
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 8913
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 6232
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 10135
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 9201
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 8175
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 5368
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 4602
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 5238
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 7475
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 5310
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 4829
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 5673
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2021-01",
+    "avg_price_per_sqft": 9349
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 8890
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 5033
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 8700
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 6714
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 9069
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 9856
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 6830
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 8594
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 8353
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 7976
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 9065
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 5229
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 4420
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 6336
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 8719
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 7612
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 5406
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 4329
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 9474
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 6551
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 8491
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 9879
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 8164
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 6296
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2021-02",
+    "avg_price_per_sqft": 9788
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 7668
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 5541
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 5891
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 5498
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 6483
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 5393
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 7285
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 4854
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 7853
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 5533
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 5378
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 10780
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 10012
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 8791
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 7547
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 6379
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 6544
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 6781
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 9051
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 10002
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 6062
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 9941
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 4503
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 10058
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2021-03",
+    "avg_price_per_sqft": 8647
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 5516
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 6300
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 6374
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 5816
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 5893
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 7342
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 4342
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 6317
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 7011
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 5083
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 6774
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 6832
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 5460
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 9976
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 10307
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 6610
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 9592
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 6719
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 6216
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 7732
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 9811
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 7621
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 5881
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 9741
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2021-04",
+    "avg_price_per_sqft": 9642
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 8190
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 10427
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 9381
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 6197
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 7917
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 6447
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 7014
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 9332
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 4525
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 8992
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 10256
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 4943
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 7284
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 5579
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 8838
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 7524
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 7207
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 7575
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 8289
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 8440
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 4830
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 4260
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 9850
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 6500
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2021-05",
+    "avg_price_per_sqft": 5913
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 6449
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 8277
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 4363
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 10439
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 8078
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 7718
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 9428
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 4984
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 4458
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 6840
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 8955
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 5604
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 9707
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 6837
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 7793
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 5514
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 5088
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 7819
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 8321
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 8486
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 7962
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 8630
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 7164
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 6648
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2021-06",
+    "avg_price_per_sqft": 6588
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 9366
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 7818
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 4536
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 7219
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 4506
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 7447
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 10996
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 5124
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 8073
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 4981
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 6698
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 9000
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 10651
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 8017
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 4233
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 10294
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 5645
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 5012
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 9174
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 6617
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 6701
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 7832
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 8282
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 10030
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2021-07",
+    "avg_price_per_sqft": 5967
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 10321
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 5929
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 7020
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 7632
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 8778
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 4663
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 4797
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 8032
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 10281
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 9460
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 10534
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 10127
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 10576
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 5560
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 4822
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 8618
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 7134
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 4430
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 9801
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 5279
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 5113
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 7745
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 10407
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 7530
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2021-08",
+    "avg_price_per_sqft": 8817
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 6046
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 5506
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 4770
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 5359
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 4292
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 8419
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 7870
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 8451
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 6306
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 9785
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 7775
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 5614
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 9341
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 8442
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 8949
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 5589
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 4759
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 7085
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 8834
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 5683
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 5875
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 9984
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 7586
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 9233
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2021-09",
+    "avg_price_per_sqft": 6700
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 8530
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 4588
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 5720
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 6747
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 10097
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 10511
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 4746
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 8348
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 7320
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 8575
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 6000
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 6646
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 6542
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 11071
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 7365
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 8646
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 5585
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 10852
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 6962
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 6260
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 6955
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 6653
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 7913
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 6814
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2021-10",
+    "avg_price_per_sqft": 6545
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 10288
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 9503
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 6143
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 4416
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 8855
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 10183
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 9075
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 8312
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 8348
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 9288
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 8495
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 10522
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 4792
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 5576
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 9506
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 8355
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 7602
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 9231
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 7999
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 6285
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 7312
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 10174
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 7179
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 7367
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2021-11",
+    "avg_price_per_sqft": 7121
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 10322
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 6018
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 9585
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 10270
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 4689
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 6023
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 5261
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 6979
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 7907
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 9032
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 9217
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 5812
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 8224
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 9388
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 8346
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 6660
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 5732
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 5958
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 5035
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 7197
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 4688
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 6620
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 10650
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 5943
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2021-12",
+    "avg_price_per_sqft": 9507
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 8768
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 9791
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 9049
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 9340
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 4828
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 5832
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 11447
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 5772
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 7319
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 4899
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 8836
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 5015
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 4665
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 7498
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 11148
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 5648
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 5250
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 8092
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 8635
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 9150
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 7628
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 10441
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 4502
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 9670
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2022-01",
+    "avg_price_per_sqft": 10445
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 4831
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 9865
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 5291
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 5388
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 5905
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 9041
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 6066
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 10751
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 8650
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 5169
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 7351
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 4725
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 10397
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 6028
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 7142
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 7516
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 4543
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 5174
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 5101
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 5257
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 8890
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 10340
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 10171
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 9814
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2022-02",
+    "avg_price_per_sqft": 9878
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 10005
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 9672
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 10099
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 6764
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 6963
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 8388
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 7375
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 8492
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 7991
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 9291
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 8827
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 8729
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 8154
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 7008
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 9817
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 4822
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 10911
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 10464
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 10101
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 6726
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 8510
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 10561
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 10606
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 10828
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2022-03",
+    "avg_price_per_sqft": 10031
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 5213
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 8609
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 4568
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 9333
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 9376
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 10300
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 8135
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 9176
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 6425
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 5474
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 10986
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 7645
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 7207
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 6223
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 9950
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 9184
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 7974
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 5371
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 9743
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 10017
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 6033
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 7194
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 6243
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 5484
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2022-04",
+    "avg_price_per_sqft": 7373
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 7084
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 8678
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 9119
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 5537
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 10163
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 8908
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 8660
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 6068
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 8286
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 9756
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 4987
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 5390
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 6265
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 11104
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 7218
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 5089
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 9294
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 10909
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 10207
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 8289
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 9972
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 8313
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 9290
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 6835
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2022-05",
+    "avg_price_per_sqft": 9413
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 10918
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 7153
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 11635
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 5478
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 11331
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 5345
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 10837
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 6410
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 4945
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 10841
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 9669
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 10103
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 5053
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 7682
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 8837
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 5865
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 6558
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 10529
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 5728
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 6668
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 10900
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 6065
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 8027
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 10792
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2022-06",
+    "avg_price_per_sqft": 6989
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 10377
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 11164
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 4733
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 8278
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 8706
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 10618
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 5370
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 8404
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 5567
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 11310
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 9913
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 8514
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 9180
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 8029
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 5524
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 5171
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 9627
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 4758
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 9613
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 5893
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 9939
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 10869
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 8556
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 7303
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2022-07",
+    "avg_price_per_sqft": 5635
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 7806
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 9183
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 7252
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 11164
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 6846
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 9820
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 5471
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 10456
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 5411
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 6205
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 6555
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 5487
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 8568
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 9618
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 5153
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 9787
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 6985
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 6234
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 4726
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 10475
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 6066
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 8347
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 4913
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 7816
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2022-08",
+    "avg_price_per_sqft": 6899
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 10552
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 10672
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 6940
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 9166
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 5434
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 7000
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 8033
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 5477
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 10934
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 8980
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 4580
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 10057
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 6827
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 11654
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 9186
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 9448
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 7200
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 9358
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 8586
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 7518
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 4973
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 10916
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 9584
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 5536
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2022-09",
+    "avg_price_per_sqft": 10853
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 8910
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 7005
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 6235
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 4746
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 5370
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 5372
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 10118
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 7662
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 5833
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 5335
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 7335
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 6968
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 7751
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 10878
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 5012
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 5736
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 7281
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 9671
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 6612
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 9052
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 4543
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 11111
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 9354
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 5141
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2022-10",
+    "avg_price_per_sqft": 11210
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 9537
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 9436
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 8339
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 5795
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 6672
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 9480
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 8328
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 6355
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 9539
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 11211
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 6092
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 5878
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 4749
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 10256
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 6343
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 7008
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 6126
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 11695
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 6006
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 10718
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 10701
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 6749
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 11748
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 11155
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2022-11",
+    "avg_price_per_sqft": 7117
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 7430
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 5077
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 7031
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 5170
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 5080
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 10957
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 5748
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 8948
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 8769
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 5271
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 10971
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 7663
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 7516
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 5040
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 4642
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 6561
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 6041
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 4895
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 7206
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 9510
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 6478
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 9265
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 6838
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 9024
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2022-12",
+    "avg_price_per_sqft": 9128
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 8790
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 5477
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 4945
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 8996
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 9138
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 10342
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 11246
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 4659
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 5092
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 10499
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 5891
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 8766
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 6556
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 11172
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 6721
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 7361
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 8121
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 10742
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 7656
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 7776
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 6489
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 11768
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 5925
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 5693
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2023-01",
+    "avg_price_per_sqft": 9642
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 5272
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 9694
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 5093
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 6005
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 8285
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 5115
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 5228
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 6169
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 9761
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 10604
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 6460
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 5433
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 10592
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 10969
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 4739
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 6356
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 4858
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 9612
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 10319
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 10148
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 5156
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 4806
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 8867
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 5864
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2023-02",
+    "avg_price_per_sqft": 5564
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 11525
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 4532
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 8402
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 6336
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 8406
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 7170
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 5847
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 7334
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 7468
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 6780
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 7143
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 10091
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 5603
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 5248
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 6440
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 9518
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 7421
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 6997
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 8617
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 10620
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 9968
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 8720
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 8835
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 9703
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2023-03",
+    "avg_price_per_sqft": 9650
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 8936
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 10019
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 7542
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 6237
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 8641
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 5231
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 10070
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 10462
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 11775
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 10191
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 6715
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 5094
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 9095
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 9302
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 6056
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 9175
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 7379
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 7977
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 11792
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 11006
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 4872
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 5471
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 6456
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 5790
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2023-04",
+    "avg_price_per_sqft": 6686
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 10709
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 10174
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 10033
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 10817
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 10102
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 10758
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 9859
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 5252
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 10206
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 9804
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 10257
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 8753
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 6509
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 6203
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 5901
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 5061
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 5807
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 12165
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 11556
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 11005
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 9928
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 9012
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 5690
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 7976
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2023-05",
+    "avg_price_per_sqft": 4770
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 7868
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 10011
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 8167
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 11835
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 5072
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 11163
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 8043
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 10687
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 6405
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 9976
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 11094
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 7194
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 9714
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 9434
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 7987
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 10586
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 10725
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 7692
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 5277
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 9381
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 10140
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 10251
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 5517
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 10076
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2023-06",
+    "avg_price_per_sqft": 12378
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 11266
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 10968
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 6842
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 11460
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 11614
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 9084
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 12160
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 9441
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 7674
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 8917
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 6144
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 5553
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 9674
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 8155
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 6905
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 11998
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 7700
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 10609
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 6446
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 9735
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 6857
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 5502
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 9120
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 7689
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2023-07",
+    "avg_price_per_sqft": 11374
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 8088
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 6741
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 8660
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 6213
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 8621
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 4611
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 8202
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 9958
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 11466
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 9362
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 8631
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 11003
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 11386
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 5932
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 10081
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 6041
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 4937
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 10336
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 6047
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 9314
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 9204
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 11547
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 9816
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 9318
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2023-08",
+    "avg_price_per_sqft": 11419
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 11695
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 4956
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 10326
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 9085
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 7884
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 8992
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 9425
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 10140
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 7238
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 12366
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 7911
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 7562
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 10732
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 8414
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 9391
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 7490
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 8636
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 9882
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 10121
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 10945
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 11298
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 10591
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 11820
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 6680
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2023-09",
+    "avg_price_per_sqft": 9477
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 8116
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 6817
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 11735
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 5555
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 6161
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 9793
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 6775
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 11396
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 10354
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 8597
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 11144
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 10126
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 5731
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 9226
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 12014
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 6727
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 11002
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 10024
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 7451
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 7812
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 5308
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 10032
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 8899
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 10066
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2023-10",
+    "avg_price_per_sqft": 11929
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 6631
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 5493
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 5406
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 11732
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 10879
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 12389
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 11281
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 9868
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 6094
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 6975
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 9281
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 11964
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 9549
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 11544
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 9881
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 10882
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 6093
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 8423
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 8225
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 10880
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 7329
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 11775
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 6916
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 10681
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2023-11",
+    "avg_price_per_sqft": 10867
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 12110
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 6069
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 10339
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 10758
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 8978
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 7395
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 10615
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 8824
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 12258
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 6355
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 7175
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 6920
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 12543
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 6000
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 6204
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 6414
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 5670
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 8836
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 8043
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 9159
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 9631
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 11721
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 9545
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 12793
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2023-12",
+    "avg_price_per_sqft": 6856
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 8420
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 7158
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 5719
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 10175
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 12497
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 7971
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 10994
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 11847
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 9252
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 11993
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 8821
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 6753
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 10489
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 5075
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 7458
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 10594
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 7634
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 11725
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 12152
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 6233
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 5057
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 9863
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 9608
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 6259
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2024-01",
+    "avg_price_per_sqft": 8828
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 5154
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 5141
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 7755
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 6752
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 9390
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 9044
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 10104
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 10921
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 5574
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 10106
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 5521
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 12027
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 10487
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 7501
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 10246
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 6557
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 8130
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 8964
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 10095
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 11551
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 10016
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 11614
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 11390
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 7696
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2024-02",
+    "avg_price_per_sqft": 5259
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 7760
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 8695
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 5913
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 9915
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 6444
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 8723
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 6599
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 8871
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 6621
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 6587
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 9982
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 9119
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 7999
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 11421
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 12169
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 8469
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 9684
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 5222
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 5679
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 11274
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 5622
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 7727
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 8030
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 11692
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2024-03",
+    "avg_price_per_sqft": 9444
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 10738
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 12138
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 10076
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 11524
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 9933
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 6719
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 7761
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 5636
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 5100
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 12595
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 11908
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 4814
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 9544
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 11515
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 9614
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 8289
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 8422
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 10934
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 8232
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 9484
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 8604
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 12437
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 7496
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 10108
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2024-04",
+    "avg_price_per_sqft": 12075
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 8840
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 8150
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 10653
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 6165
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 10917
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 11382
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 7913
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 9286
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 12752
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 9443
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 11149
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 7844
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 12517
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 7076
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 9926
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 9991
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 8285
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 9866
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 10583
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 9323
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 6743
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 9430
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 10734
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 4861
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2024-05",
+    "avg_price_per_sqft": 9446
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 11034
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 8936
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 7731
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 9219
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 12298
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 8062
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 7572
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 10407
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 5489
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 8918
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 9811
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 8175
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 10836
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 12021
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 7788
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 12348
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 6527
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 9340
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 11348
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 7302
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 6430
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 11165
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 9083
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 9870
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2024-06",
+    "avg_price_per_sqft": 10937
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 5189
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 8418
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 7643
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 6438
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 9294
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 7101
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 12170
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 5995
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 7651
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 7153
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 10393
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 6004
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 8692
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 10519
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 6689
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 6438
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 11113
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 9156
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 6639
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 7551
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 10999
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 12241
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 10048
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 9719
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2024-07",
+    "avg_price_per_sqft": 11319
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 7549
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 7130
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 6344
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 5766
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 9279
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 12401
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 5894
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 7121
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 10953
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 10785
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 6582
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 8809
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 6546
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 11280
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 11688
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 11059
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 9786
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 11758
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 7700
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 12159
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 6227
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 7077
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 10187
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 9309
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2024-08",
+    "avg_price_per_sqft": 6911
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 9726
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 11993
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 8651
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 10588
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 8362
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 6477
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 9736
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 6608
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 7493
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 11872
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 10200
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 5825
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 6407
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 5972
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 9901
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 8976
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 11290
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 8417
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 7330
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 6488
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 6943
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 8278
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 6844
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 8411
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2024-09",
+    "avg_price_per_sqft": 6176
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 6355
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 10874
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 12554
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 5533
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 10424
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 11769
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 9209
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 6395
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 12083
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 9985
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 6512
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 9714
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 6052
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 6651
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 7556
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 9131
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 8032
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 9742
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 6400
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 6615
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 9795
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 5439
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 11157
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 8590
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2024-10",
+    "avg_price_per_sqft": 6377
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 5330
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 10182
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 8039
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 11177
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 9591
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 5295
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 5242
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 10453
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 7017
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 10766
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 6906
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 9166
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 9541
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 6577
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 11336
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 10619
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 5699
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 8337
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 7898
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 11166
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 8492
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 10996
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 9993
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 8636
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2024-11",
+    "avg_price_per_sqft": 9126
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 12395
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 7422
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 9531
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 9793
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 6902
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 6477
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 9643
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 6750
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 12171
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 9680
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 10886
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 8854
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 11861
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 9782
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 7197
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 10682
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 11055
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 12224
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 5860
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 5176
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 12582
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 9939
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 7162
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 8765
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2024-12",
+    "avg_price_per_sqft": 6247
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 12200
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 12975
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 6955
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 6979
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 9687
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 10800
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 8056
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 11616
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 6101
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 5457
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 7838
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 9687
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 7739
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 10156
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 5098
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 5398
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 7751
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 8913
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 8726
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 7567
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 12656
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 8907
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 12825
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 7804
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2025-01",
+    "avg_price_per_sqft": 11727
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 11213
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 8094
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 5625
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 12467
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 6706
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 10856
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 6608
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 7367
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 7070
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 10451
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 8220
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 8561
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 6872
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 11324
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 11027
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 10214
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 9993
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 9917
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 8799
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 9705
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 8912
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 5770
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 6811
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 10575
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2025-02",
+    "avg_price_per_sqft": 9161
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 9118
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 11122
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 5411
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 12680
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 10240
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 9256
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 6166
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 10415
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 5676
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 6559
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 9113
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 5635
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 6523
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 7317
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 10300
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 6797
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 7806
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 7499
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 7564
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 7435
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 8813
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 6396
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 8495
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 5373
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "month_year": "2025-03",
+    "avg_price_per_sqft": 6901
+  }
+]

@@ -1,0 +1,1892 @@
+[
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "sqft": 1327,
+    "price": 18202459,
+    "price_per_sqft": 13717,
+    "listing_date": "2025-01-21"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "property_type": "House",
+    "bedrooms": 2,
+    "sqft": 2229,
+    "price": 27198258,
+    "price_per_sqft": 12202,
+    "listing_date": "2025-02-09"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "property_type": "House",
+    "bedrooms": 1,
+    "sqft": 2667,
+    "price": 17924907,
+    "price_per_sqft": 6721,
+    "listing_date": "2025-02-09"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "property_type": "Penthouse",
+    "bedrooms": 1,
+    "sqft": 1884,
+    "price": 20786172,
+    "price_per_sqft": 11033,
+    "listing_date": "2025-01-30"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Andheri",
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "sqft": 1928,
+    "price": 27159736,
+    "price_per_sqft": 14087,
+    "listing_date": "2025-01-22"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "sqft": 2065,
+    "price": 30374085,
+    "price_per_sqft": 14709,
+    "listing_date": "2025-02-11"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 873,
+    "price": 7938189,
+    "price_per_sqft": 9093,
+    "listing_date": "2025-01-26"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "property_type": "Penthouse",
+    "bedrooms": 3,
+    "sqft": 1007,
+    "price": 7173868,
+    "price_per_sqft": 7124,
+    "listing_date": "2025-01-27"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 2613,
+    "price": 16359993,
+    "price_per_sqft": 6261,
+    "listing_date": "2025-01-05"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "sqft": 921,
+    "price": 8493462,
+    "price_per_sqft": 9222,
+    "listing_date": "2025-02-09"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "sqft": 2141,
+    "price": 28207675,
+    "price_per_sqft": 13175,
+    "listing_date": "2025-01-30"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 1596,
+    "price": 14268240,
+    "price_per_sqft": 8940,
+    "listing_date": "2025-01-30"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "property_type": "House",
+    "bedrooms": 3,
+    "sqft": 1099,
+    "price": 7016016,
+    "price_per_sqft": 6384,
+    "listing_date": "2025-02-11"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "property_type": "House",
+    "bedrooms": 4,
+    "sqft": 1745,
+    "price": 13534220,
+    "price_per_sqft": 7756,
+    "listing_date": "2025-02-23"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Bandra",
+    "property_type": "Penthouse",
+    "bedrooms": 5,
+    "sqft": 2121,
+    "price": 23899428,
+    "price_per_sqft": 11268,
+    "listing_date": "2025-02-21"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 1659,
+    "price": 20123670,
+    "price_per_sqft": 12130,
+    "listing_date": "2025-02-16"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "sqft": 1678,
+    "price": 24045740,
+    "price_per_sqft": 14330,
+    "listing_date": "2025-02-13"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "sqft": 2074,
+    "price": 30863194,
+    "price_per_sqft": 14881,
+    "listing_date": "2025-01-29"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "sqft": 2718,
+    "price": 26769582,
+    "price_per_sqft": 9849,
+    "listing_date": "2025-01-25"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "property_type": "Penthouse",
+    "bedrooms": 3,
+    "sqft": 1153,
+    "price": 11890889,
+    "price_per_sqft": 10313,
+    "listing_date": "2025-02-19"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "property_type": "Penthouse",
+    "bedrooms": 1,
+    "sqft": 2465,
+    "price": 36827100,
+    "price_per_sqft": 14940,
+    "listing_date": "2025-01-22"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "property_type": "House",
+    "bedrooms": 4,
+    "sqft": 2254,
+    "price": 28673134,
+    "price_per_sqft": 12721,
+    "listing_date": "2025-02-20"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "property_type": "Penthouse",
+    "bedrooms": 2,
+    "sqft": 2901,
+    "price": 38122041,
+    "price_per_sqft": 13141,
+    "listing_date": "2025-01-16"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "property_type": "Penthouse",
+    "bedrooms": 3,
+    "sqft": 2251,
+    "price": 22145338,
+    "price_per_sqft": 9838,
+    "listing_date": "2025-02-10"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Worli",
+    "property_type": "House",
+    "bedrooms": 5,
+    "sqft": 1161,
+    "price": 12697857,
+    "price_per_sqft": 10937,
+    "listing_date": "2025-02-21"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "sqft": 1483,
+    "price": 21912808,
+    "price_per_sqft": 14776,
+    "listing_date": "2025-01-31"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "property_type": "Penthouse",
+    "bedrooms": 5,
+    "sqft": 2192,
+    "price": 25135664,
+    "price_per_sqft": 11467,
+    "listing_date": "2025-02-19"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "property_type": "Penthouse",
+    "bedrooms": 3,
+    "sqft": 2707,
+    "price": 16231172,
+    "price_per_sqft": 5996,
+    "listing_date": "2025-01-22"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "property_type": "Penthouse",
+    "bedrooms": 5,
+    "sqft": 2650,
+    "price": 30840700,
+    "price_per_sqft": 11638,
+    "listing_date": "2025-02-13"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "property_type": "House",
+    "bedrooms": 2,
+    "sqft": 2640,
+    "price": 29750160,
+    "price_per_sqft": 11269,
+    "listing_date": "2025-02-21"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 2107,
+    "price": 23465659,
+    "price_per_sqft": 11137,
+    "listing_date": "2025-01-20"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "sqft": 874,
+    "price": 7735774,
+    "price_per_sqft": 8851,
+    "listing_date": "2025-01-08"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Powai",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "sqft": 1538,
+    "price": 16578102,
+    "price_per_sqft": 10779,
+    "listing_date": "2025-01-29"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "sqft": 1007,
+    "price": 10230113,
+    "price_per_sqft": 10159,
+    "listing_date": "2025-01-08"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 1365,
+    "price": 6924645,
+    "price_per_sqft": 5073,
+    "listing_date": "2025-02-05"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "property_type": "House",
+    "bedrooms": 2,
+    "sqft": 1320,
+    "price": 9620160,
+    "price_per_sqft": 7288,
+    "listing_date": "2025-02-09"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "sqft": 1932,
+    "price": 13840848,
+    "price_per_sqft": 7164,
+    "listing_date": "2025-03-02"
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "sqft": 2515,
+    "price": 21530915,
+    "price_per_sqft": 8561,
+    "listing_date": "2025-02-19"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "sqft": 1591,
+    "price": 12724818,
+    "price_per_sqft": 7998,
+    "listing_date": "2025-01-30"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 1583,
+    "price": 12480372,
+    "price_per_sqft": 7884,
+    "listing_date": "2025-01-31"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "sqft": 2768,
+    "price": 34301056,
+    "price_per_sqft": 12392,
+    "listing_date": "2025-01-15"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "property_type": "House",
+    "bedrooms": 5,
+    "sqft": 2701,
+    "price": 36606653,
+    "price_per_sqft": 13553,
+    "listing_date": "2025-02-11"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 2039,
+    "price": 14111919,
+    "price_per_sqft": 6921,
+    "listing_date": "2025-02-07"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "property_type": "Penthouse",
+    "bedrooms": 1,
+    "sqft": 2462,
+    "price": 24880972,
+    "price_per_sqft": 10106,
+    "listing_date": "2025-01-29"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "sqft": 2505,
+    "price": 16117170,
+    "price_per_sqft": 6434,
+    "listing_date": "2025-01-13"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "sqft": 2239,
+    "price": 14947564,
+    "price_per_sqft": 6676,
+    "listing_date": "2025-01-22"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "sqft": 2854,
+    "price": 26313880,
+    "price_per_sqft": 9220,
+    "listing_date": "2025-01-04"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 2818,
+    "price": 40728554,
+    "price_per_sqft": 14453,
+    "listing_date": "2025-01-14"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Electronic City",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "sqft": 1475,
+    "price": 14528750,
+    "price_per_sqft": 9850,
+    "listing_date": "2025-01-25"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "property_type": "Penthouse",
+    "bedrooms": 3,
+    "sqft": 2766,
+    "price": 37816752,
+    "price_per_sqft": 13672,
+    "listing_date": "2025-01-08"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "property_type": "Penthouse",
+    "bedrooms": 3,
+    "sqft": 2500,
+    "price": 20057500,
+    "price_per_sqft": 8023,
+    "listing_date": "2025-01-28"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "property_type": "House",
+    "bedrooms": 5,
+    "sqft": 1313,
+    "price": 19417957,
+    "price_per_sqft": 14789,
+    "listing_date": "2025-02-02"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 2191,
+    "price": 25860373,
+    "price_per_sqft": 11803,
+    "listing_date": "2025-01-27"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Koramangala",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "sqft": 1517,
+    "price": 18583250,
+    "price_per_sqft": 12250,
+    "listing_date": "2025-01-17"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "property_type": "House",
+    "bedrooms": 5,
+    "sqft": 1015,
+    "price": 10526565,
+    "price_per_sqft": 10371,
+    "listing_date": "2025-01-12"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 1280,
+    "price": 9195520,
+    "price_per_sqft": 7184,
+    "listing_date": "2025-02-28"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 2104,
+    "price": 23806760,
+    "price_per_sqft": 11315,
+    "listing_date": "2025-01-06"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 2012,
+    "price": 11088132,
+    "price_per_sqft": 5511,
+    "listing_date": "2025-02-03"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "property_type": "House",
+    "bedrooms": 4,
+    "sqft": 2072,
+    "price": 18422152,
+    "price_per_sqft": 8891,
+    "listing_date": "2025-01-22"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "sqft": 1695,
+    "price": 14497335,
+    "price_per_sqft": 8553,
+    "listing_date": "2025-02-20"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "sqft": 1046,
+    "price": 12058288,
+    "price_per_sqft": 11528,
+    "listing_date": "2025-01-20"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 1389,
+    "price": 8889600,
+    "price_per_sqft": 6400,
+    "listing_date": "2025-01-11"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "property_type": "House",
+    "bedrooms": 3,
+    "sqft": 2963,
+    "price": 15866865,
+    "price_per_sqft": 5355,
+    "listing_date": "2025-02-10"
+  },
+  {
+    "city": "Bangalore",
+    "area": "Indiranagar",
+    "property_type": "House",
+    "bedrooms": 1,
+    "sqft": 2586,
+    "price": 18083898,
+    "price_per_sqft": 6993,
+    "listing_date": "2025-02-28"
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 2710,
+    "price": 15292530,
+    "price_per_sqft": 5643,
+    "listing_date": "2025-02-02"
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 2054,
+    "price": 26313794,
+    "price_per_sqft": 12811,
+    "listing_date": "2025-01-13"
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 1020,
+    "price": 5356020,
+    "price_per_sqft": 5251,
+    "listing_date": "2025-02-07"
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "sqft": 2653,
+    "price": 35152250,
+    "price_per_sqft": 13250,
+    "listing_date": "2025-01-10"
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "sqft": 1947,
+    "price": 10504065,
+    "price_per_sqft": 5395,
+    "listing_date": "2025-02-28"
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 1504,
+    "price": 18661632,
+    "price_per_sqft": 12408,
+    "listing_date": "2025-01-13"
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 2262,
+    "price": 29055390,
+    "price_per_sqft": 12845,
+    "listing_date": "2025-02-07"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "property_type": "Penthouse",
+    "bedrooms": 2,
+    "sqft": 1691,
+    "price": 20461100,
+    "price_per_sqft": 12100,
+    "listing_date": "2025-01-22"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "sqft": 2739,
+    "price": 26365614,
+    "price_per_sqft": 9626,
+    "listing_date": "2025-01-11"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 2739,
+    "price": 31019175,
+    "price_per_sqft": 11325,
+    "listing_date": "2025-03-01"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "property_type": "Penthouse",
+    "bedrooms": 3,
+    "sqft": 1513,
+    "price": 10121970,
+    "price_per_sqft": 6690,
+    "listing_date": "2025-01-16"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "sqft": 1886,
+    "price": 23908822,
+    "price_per_sqft": 12677,
+    "listing_date": "2025-02-07"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "property_type": "Penthouse",
+    "bedrooms": 5,
+    "sqft": 1253,
+    "price": 18471726,
+    "price_per_sqft": 14742,
+    "listing_date": "2025-02-03"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "property_type": "House",
+    "bedrooms": 5,
+    "sqft": 2549,
+    "price": 13071272,
+    "price_per_sqft": 5128,
+    "listing_date": "2025-02-26"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "sqft": 2912,
+    "price": 36432032,
+    "price_per_sqft": 12511,
+    "listing_date": "2025-01-07"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "property_type": "House",
+    "bedrooms": 4,
+    "sqft": 1971,
+    "price": 21304539,
+    "price_per_sqft": 10809,
+    "listing_date": "2025-02-25"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 2951,
+    "price": 24605438,
+    "price_per_sqft": 8338,
+    "listing_date": "2025-01-17"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "property_type": "House",
+    "bedrooms": 5,
+    "sqft": 2710,
+    "price": 24224690,
+    "price_per_sqft": 8939,
+    "listing_date": "2025-01-07"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "sqft": 1101,
+    "price": 6262488,
+    "price_per_sqft": 5688,
+    "listing_date": "2025-02-06"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "sqft": 1419,
+    "price": 12346719,
+    "price_per_sqft": 8701,
+    "listing_date": "2025-02-28"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "property_type": "House",
+    "bedrooms": 1,
+    "sqft": 1673,
+    "price": 23229605,
+    "price_per_sqft": 13885,
+    "listing_date": "2025-01-24"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "sqft": 1312,
+    "price": 17761856,
+    "price_per_sqft": 13538,
+    "listing_date": "2025-02-21"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "sqft": 1183,
+    "price": 8472646,
+    "price_per_sqft": 7162,
+    "listing_date": "2025-01-08"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "sqft": 2473,
+    "price": 13282483,
+    "price_per_sqft": 5371,
+    "listing_date": "2025-02-20"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 2709,
+    "price": 34038585,
+    "price_per_sqft": 12565,
+    "listing_date": "2025-02-11"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "sqft": 1755,
+    "price": 10386090,
+    "price_per_sqft": 5918,
+    "listing_date": "2025-02-15"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "sqft": 2528,
+    "price": 34679104,
+    "price_per_sqft": 13718,
+    "listing_date": "2025-01-15"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "property_type": "Penthouse",
+    "bedrooms": 3,
+    "sqft": 1388,
+    "price": 20453568,
+    "price_per_sqft": 14736,
+    "listing_date": "2025-01-31"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "property_type": "Penthouse",
+    "bedrooms": 1,
+    "sqft": 2900,
+    "price": 15607800,
+    "price_per_sqft": 5382,
+    "listing_date": "2025-02-25"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "property_type": "House",
+    "bedrooms": 3,
+    "sqft": 1563,
+    "price": 21694440,
+    "price_per_sqft": 13880,
+    "listing_date": "2025-01-21"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "property_type": "House",
+    "bedrooms": 5,
+    "sqft": 1107,
+    "price": 11157453,
+    "price_per_sqft": 10079,
+    "listing_date": "2025-02-25"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 1179,
+    "price": 15958944,
+    "price_per_sqft": 13536,
+    "listing_date": "2025-03-01"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "property_type": "Penthouse",
+    "bedrooms": 5,
+    "sqft": 2897,
+    "price": 24694028,
+    "price_per_sqft": 8524,
+    "listing_date": "2025-01-11"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 1550,
+    "price": 21803850,
+    "price_per_sqft": 14067,
+    "listing_date": "2025-01-19"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "sqft": 2912,
+    "price": 26723424,
+    "price_per_sqft": 9177,
+    "listing_date": "2025-01-30"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "sqft": 1403,
+    "price": 19661642,
+    "price_per_sqft": 14014,
+    "listing_date": "2025-02-28"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "property_type": "House",
+    "bedrooms": 1,
+    "sqft": 1235,
+    "price": 13856700,
+    "price_per_sqft": 11220,
+    "listing_date": "2025-02-08"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "property_type": "House",
+    "bedrooms": 5,
+    "sqft": 1001,
+    "price": 12805793,
+    "price_per_sqft": 12793,
+    "listing_date": "2025-01-31"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 868,
+    "price": 12830776,
+    "price_per_sqft": 14782,
+    "listing_date": "2025-01-16"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "sqft": 1441,
+    "price": 20576039,
+    "price_per_sqft": 14279,
+    "listing_date": "2025-02-22"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "property_type": "House",
+    "bedrooms": 2,
+    "sqft": 1040,
+    "price": 7159360,
+    "price_per_sqft": 6884,
+    "listing_date": "2025-02-24"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "sqft": 2106,
+    "price": 19714266,
+    "price_per_sqft": 9361,
+    "listing_date": "2025-03-02"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "property_type": "House",
+    "bedrooms": 2,
+    "sqft": 1888,
+    "price": 11754688,
+    "price_per_sqft": 6226,
+    "listing_date": "2025-02-14"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "sqft": 2636,
+    "price": 18291204,
+    "price_per_sqft": 6939,
+    "listing_date": "2025-02-19"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 1039,
+    "price": 11396791,
+    "price_per_sqft": 10969,
+    "listing_date": "2025-01-20"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "property_type": "Penthouse",
+    "bedrooms": 2,
+    "sqft": 1364,
+    "price": 18633604,
+    "price_per_sqft": 13661,
+    "listing_date": "2025-03-01"
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "property_type": "House",
+    "bedrooms": 1,
+    "sqft": 1393,
+    "price": 11113354,
+    "price_per_sqft": 7978,
+    "listing_date": "2025-02-20"
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "sqft": 1161,
+    "price": 12046536,
+    "price_per_sqft": 10376,
+    "listing_date": "2025-02-28"
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "property_type": "House",
+    "bedrooms": 1,
+    "sqft": 1500,
+    "price": 9342000,
+    "price_per_sqft": 6228,
+    "listing_date": "2025-01-14"
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "sqft": 953,
+    "price": 13129481,
+    "price_per_sqft": 13777,
+    "listing_date": "2025-02-27"
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "property_type": "House",
+    "bedrooms": 2,
+    "sqft": 2105,
+    "price": 24329590,
+    "price_per_sqft": 11558,
+    "listing_date": "2025-01-31"
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "sqft": 2640,
+    "price": 36540240,
+    "price_per_sqft": 13841,
+    "listing_date": "2025-01-18"
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "property_type": "House",
+    "bedrooms": 2,
+    "sqft": 1986,
+    "price": 28252836,
+    "price_per_sqft": 14226,
+    "listing_date": "2025-02-23"
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "sqft": 1008,
+    "price": 6732432,
+    "price_per_sqft": 6679,
+    "listing_date": "2025-02-24"
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "property_type": "Penthouse",
+    "bedrooms": 5,
+    "sqft": 884,
+    "price": 12783524,
+    "price_per_sqft": 14461,
+    "listing_date": "2025-02-13"
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "property_type": "Penthouse",
+    "bedrooms": 5,
+    "sqft": 1226,
+    "price": 17366290,
+    "price_per_sqft": 14165,
+    "listing_date": "2025-01-31"
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "sqft": 2265,
+    "price": 19678320,
+    "price_per_sqft": 8688,
+    "listing_date": "2025-02-20"
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "sqft": 1852,
+    "price": 13393664,
+    "price_per_sqft": 7232,
+    "listing_date": "2025-03-01"
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "property_type": "House",
+    "bedrooms": 1,
+    "sqft": 2776,
+    "price": 18021792,
+    "price_per_sqft": 6492,
+    "listing_date": "2025-02-08"
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "property_type": "House",
+    "bedrooms": 1,
+    "sqft": 2424,
+    "price": 29172840,
+    "price_per_sqft": 12035,
+    "listing_date": "2025-01-17"
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "sqft": 2959,
+    "price": 27548290,
+    "price_per_sqft": 9310,
+    "listing_date": "2025-01-19"
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "property_type": "House",
+    "bedrooms": 4,
+    "sqft": 1748,
+    "price": 15957492,
+    "price_per_sqft": 9129,
+    "listing_date": "2025-01-09"
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 2780,
+    "price": 33932680,
+    "price_per_sqft": 12206,
+    "listing_date": "2025-02-04"
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "property_type": "House",
+    "bedrooms": 4,
+    "sqft": 1661,
+    "price": 9381328,
+    "price_per_sqft": 5648,
+    "listing_date": "2025-03-03"
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "property_type": "House",
+    "bedrooms": 2,
+    "sqft": 2895,
+    "price": 30655155,
+    "price_per_sqft": 10589,
+    "listing_date": "2025-01-30"
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "property_type": "Penthouse",
+    "bedrooms": 2,
+    "sqft": 2093,
+    "price": 22277892,
+    "price_per_sqft": 10644,
+    "listing_date": "2025-01-15"
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "sqft": 1385,
+    "price": 18768135,
+    "price_per_sqft": 13551,
+    "listing_date": "2025-02-23"
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "property_type": "House",
+    "bedrooms": 3,
+    "sqft": 2918,
+    "price": 29463046,
+    "price_per_sqft": 10097,
+    "listing_date": "2025-01-14"
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "property_type": "Penthouse",
+    "bedrooms": 3,
+    "sqft": 2489,
+    "price": 22600120,
+    "price_per_sqft": 9080,
+    "listing_date": "2025-01-05"
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "sqft": 1027,
+    "price": 13262678,
+    "price_per_sqft": 12914,
+    "listing_date": "2025-01-30"
+  },
+  {
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "property_type": "Penthouse",
+    "bedrooms": 5,
+    "sqft": 846,
+    "price": 11653650,
+    "price_per_sqft": 13775,
+    "listing_date": "2025-01-27"
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 1446,
+    "price": 14632074,
+    "price_per_sqft": 10119,
+    "listing_date": "2025-03-01"
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "property_type": "House",
+    "bedrooms": 3,
+    "sqft": 1462,
+    "price": 11815884,
+    "price_per_sqft": 8082,
+    "listing_date": "2025-01-18"
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "property_type": "House",
+    "bedrooms": 2,
+    "sqft": 2165,
+    "price": 32200045,
+    "price_per_sqft": 14873,
+    "listing_date": "2025-02-15"
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "property_type": "House",
+    "bedrooms": 5,
+    "sqft": 1040,
+    "price": 12586080,
+    "price_per_sqft": 12102,
+    "listing_date": "2025-01-31"
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "sqft": 2616,
+    "price": 19387176,
+    "price_per_sqft": 7411,
+    "listing_date": "2025-01-04"
+  },
+  {
+    "city": "Pune",
+    "area": "Baner",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "sqft": 1799,
+    "price": 17788512,
+    "price_per_sqft": 9888,
+    "listing_date": "2025-01-21"
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 960,
+    "price": 14229120,
+    "price_per_sqft": 14822,
+    "listing_date": "2025-02-22"
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "property_type": "House",
+    "bedrooms": 2,
+    "sqft": 2171,
+    "price": 18766124,
+    "price_per_sqft": 8644,
+    "listing_date": "2025-02-14"
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "property_type": "Penthouse",
+    "bedrooms": 5,
+    "sqft": 2927,
+    "price": 17933729,
+    "price_per_sqft": 6127,
+    "listing_date": "2025-01-24"
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "sqft": 2174,
+    "price": 26090174,
+    "price_per_sqft": 12001,
+    "listing_date": "2025-03-02"
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "property_type": "House",
+    "bedrooms": 2,
+    "sqft": 1818,
+    "price": 12609648,
+    "price_per_sqft": 6936,
+    "listing_date": "2025-02-10"
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "sqft": 2774,
+    "price": 21656618,
+    "price_per_sqft": 7807,
+    "listing_date": "2025-01-14"
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "sqft": 1385,
+    "price": 20715445,
+    "price_per_sqft": 14957,
+    "listing_date": "2025-02-09"
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "sqft": 1019,
+    "price": 11790849,
+    "price_per_sqft": 11571,
+    "listing_date": "2025-02-17"
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "property_type": "Penthouse",
+    "bedrooms": 3,
+    "sqft": 2959,
+    "price": 21047367,
+    "price_per_sqft": 7113,
+    "listing_date": "2025-02-11"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "sqft": 2142,
+    "price": 19136628,
+    "price_per_sqft": 8934,
+    "listing_date": "2025-02-12"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "sqft": 1091,
+    "price": 11071468,
+    "price_per_sqft": 10148,
+    "listing_date": "2025-01-20"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "property_type": "House",
+    "bedrooms": 2,
+    "sqft": 860,
+    "price": 11806940,
+    "price_per_sqft": 13729,
+    "listing_date": "2025-01-07"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "property_type": "Penthouse",
+    "bedrooms": 1,
+    "sqft": 1737,
+    "price": 10159713,
+    "price_per_sqft": 5849,
+    "listing_date": "2025-02-05"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "property_type": "Penthouse",
+    "bedrooms": 3,
+    "sqft": 1837,
+    "price": 17052871,
+    "price_per_sqft": 9283,
+    "listing_date": "2025-01-09"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "property_type": "House",
+    "bedrooms": 3,
+    "sqft": 2502,
+    "price": 30652002,
+    "price_per_sqft": 12251,
+    "listing_date": "2025-02-14"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "sqft": 1743,
+    "price": 25114887,
+    "price_per_sqft": 14409,
+    "listing_date": "2025-02-01"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 2915,
+    "price": 37282850,
+    "price_per_sqft": 12790,
+    "listing_date": "2025-01-24"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "sqft": 2460,
+    "price": 27623340,
+    "price_per_sqft": 11229,
+    "listing_date": "2025-02-11"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "sqft": 2812,
+    "price": 15654404,
+    "price_per_sqft": 5567,
+    "listing_date": "2025-01-22"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "sqft": 2999,
+    "price": 25215592,
+    "price_per_sqft": 8408,
+    "listing_date": "2025-01-28"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "sqft": 1635,
+    "price": 20692560,
+    "price_per_sqft": 12656,
+    "listing_date": "2025-02-14"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "property_type": "Penthouse",
+    "bedrooms": 5,
+    "sqft": 2222,
+    "price": 21780044,
+    "price_per_sqft": 9802,
+    "listing_date": "2025-02-02"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "property_type": "House",
+    "bedrooms": 5,
+    "sqft": 2824,
+    "price": 28544992,
+    "price_per_sqft": 10108,
+    "listing_date": "2025-02-24"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "sqft": 823,
+    "price": 4132283,
+    "price_per_sqft": 5021,
+    "listing_date": "2025-01-31"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "sqft": 2177,
+    "price": 32382875,
+    "price_per_sqft": 14875,
+    "listing_date": "2025-01-22"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "property_type": "House",
+    "bedrooms": 1,
+    "sqft": 2681,
+    "price": 17627575,
+    "price_per_sqft": 6575,
+    "listing_date": "2025-01-17"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "sqft": 2939,
+    "price": 35385560,
+    "price_per_sqft": 12040,
+    "listing_date": "2025-01-19"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "property_type": "Penthouse",
+    "bedrooms": 1,
+    "sqft": 1112,
+    "price": 7784000,
+    "price_per_sqft": 7000,
+    "listing_date": "2025-01-24"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "property_type": "Penthouse",
+    "bedrooms": 5,
+    "sqft": 2323,
+    "price": 29255862,
+    "price_per_sqft": 12594,
+    "listing_date": "2025-02-17"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "property_type": "Penthouse",
+    "bedrooms": 2,
+    "sqft": 2072,
+    "price": 28282800,
+    "price_per_sqft": 13650,
+    "listing_date": "2025-02-26"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "sqft": 2607,
+    "price": 16763010,
+    "price_per_sqft": 6430,
+    "listing_date": "2025-03-03"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "sqft": 1725,
+    "price": 18464400,
+    "price_per_sqft": 10704,
+    "listing_date": "2025-01-17"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "property_type": "House",
+    "bedrooms": 4,
+    "sqft": 2013,
+    "price": 18427002,
+    "price_per_sqft": 9154,
+    "listing_date": "2025-02-23"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "property_type": "House",
+    "bedrooms": 3,
+    "sqft": 1721,
+    "price": 15790175,
+    "price_per_sqft": 9175,
+    "listing_date": "2025-02-03"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "sqft": 939,
+    "price": 13369482,
+    "price_per_sqft": 14238,
+    "listing_date": "2025-02-11"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "property_type": "Penthouse",
+    "bedrooms": 2,
+    "sqft": 2166,
+    "price": 28121178,
+    "price_per_sqft": 12983,
+    "listing_date": "2025-01-31"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "property_type": "House",
+    "bedrooms": 1,
+    "sqft": 1716,
+    "price": 11238084,
+    "price_per_sqft": 6549,
+    "listing_date": "2025-02-20"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "property_type": "Penthouse",
+    "bedrooms": 2,
+    "sqft": 2959,
+    "price": 15792183,
+    "price_per_sqft": 5337,
+    "listing_date": "2025-02-11"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "sqft": 1005,
+    "price": 12296175,
+    "price_per_sqft": 12235,
+    "listing_date": "2025-02-05"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "property_type": "House",
+    "bedrooms": 3,
+    "sqft": 2545,
+    "price": 16277820,
+    "price_per_sqft": 6396,
+    "listing_date": "2025-01-31"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "property_type": "House",
+    "bedrooms": 3,
+    "sqft": 2950,
+    "price": 14764750,
+    "price_per_sqft": 5005,
+    "listing_date": "2025-02-10"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "sqft": 2455,
+    "price": 32428095,
+    "price_per_sqft": 13209,
+    "listing_date": "2025-02-20"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "sqft": 1066,
+    "price": 10780458,
+    "price_per_sqft": 10113,
+    "listing_date": "2025-01-05"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "property_type": "House",
+    "bedrooms": 4,
+    "sqft": 2510,
+    "price": 36447710,
+    "price_per_sqft": 14521,
+    "listing_date": "2025-01-11"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "property_type": "Penthouse",
+    "bedrooms": 5,
+    "sqft": 2409,
+    "price": 31268820,
+    "price_per_sqft": 12980,
+    "listing_date": "2025-01-08"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "sqft": 2995,
+    "price": 42588900,
+    "price_per_sqft": 14220,
+    "listing_date": "2025-01-05"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "sqft": 1518,
+    "price": 21449340,
+    "price_per_sqft": 14130,
+    "listing_date": "2025-01-31"
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "property_type": "Penthouse",
+    "bedrooms": 2,
+    "sqft": 2322,
+    "price": 32851656,
+    "price_per_sqft": 14148,
+    "listing_date": "2025-02-17"
+  }
+]

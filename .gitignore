@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+# .env  <-  KEEP THIS IF YOU WANT TO *TRACK* .env.  REMOVE IT TO IGNORE.
+# See my note below about .env files.
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Project specific
+data/cache/
+data/reports/
+*.log
+*.json.gz
+
+# API keys and secrets
+# .env   <-  DUPLICATE.  KEEP ONLY *ONE* OF THESE, AND CHOOSE WISELY (see below).
+
+# Model files
+*.h5
+*.pkl
+*.model
+
+# Visual data
+data/analysis/visuals/
+
+# Node.js (for web dashboard)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+# package-lock.json   <-  KEEP this.  See notes below.
+
+# Distribution / packaging
+*.tar.gz
+*.zip
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db

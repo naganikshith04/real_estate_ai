@@ -1,0 +1,242 @@
+[
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "project_name": "Mumbai Highway Development",
+    "project_type": "Highway",
+    "status": "Announced",
+    "announcement_date": "2024-02-13",
+    "expected_completion_date": "2027-03-26",
+    "impact_radius_km": 5
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "project_name": "Mumbai IT Park Development",
+    "project_type": "IT Park",
+    "status": "In Progress",
+    "announcement_date": "2024-11-11",
+    "expected_completion_date": "2026-12-05",
+    "impact_radius_km": 8
+  },
+  {
+    "city": "Mumbai",
+    "area": "Juhu",
+    "project_name": "Mumbai University Development",
+    "project_type": "University",
+    "status": "Announced",
+    "announcement_date": "2024-09-30",
+    "expected_completion_date": "2027-08-13",
+    "impact_radius_km": 1
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "project_name": "Bangalore IT Park Development",
+    "project_type": "IT Park",
+    "status": "In Progress",
+    "announcement_date": "2024-03-11",
+    "expected_completion_date": "2026-12-15",
+    "impact_radius_km": 4
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "project_name": "Bangalore University Development",
+    "project_type": "University",
+    "status": "Announced",
+    "announcement_date": "2025-01-16",
+    "expected_completion_date": "2027-10-10",
+    "impact_radius_km": 4
+  },
+  {
+    "city": "Bangalore",
+    "area": "HSR Layout",
+    "project_name": "Bangalore University Development",
+    "project_type": "University",
+    "status": "Completed",
+    "announcement_date": "2023-12-10",
+    "expected_completion_date": "2024-06-14",
+    "impact_radius_km": 9
+  },
+  {
+    "city": "Bangalore",
+    "area": "Whitefield",
+    "project_name": "Bangalore IT Park Development",
+    "project_type": "IT Park",
+    "status": "In Progress",
+    "announcement_date": "2024-10-05",
+    "expected_completion_date": "2025-09-01",
+    "impact_radius_km": 4
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "project_name": "Hyderabad University Development",
+    "project_type": "University",
+    "status": "Announced",
+    "announcement_date": "2025-01-15",
+    "expected_completion_date": "2028-11-19",
+    "impact_radius_km": 2
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "project_name": "Hyderabad University Development",
+    "project_type": "University",
+    "status": "Completed",
+    "announcement_date": "2023-08-26",
+    "expected_completion_date": "2024-03-13",
+    "impact_radius_km": 2
+  },
+  {
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "project_name": "Hyderabad IT Park Development",
+    "project_type": "IT Park",
+    "status": "Announced",
+    "announcement_date": "2023-08-10",
+    "expected_completion_date": "2029-03-02",
+    "impact_radius_km": 5
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "project_name": "Hyderabad University Development",
+    "project_type": "University",
+    "status": "Announced",
+    "announcement_date": "2024-07-13",
+    "expected_completion_date": "2028-02-22",
+    "impact_radius_km": 4
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "project_name": "Hyderabad Highway Development",
+    "project_type": "Highway",
+    "status": "Announced",
+    "announcement_date": "2024-05-16",
+    "expected_completion_date": "2028-06-02",
+    "impact_radius_km": 1
+  },
+  {
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "project_name": "Hyderabad University Development",
+    "project_type": "University",
+    "status": "Announced",
+    "announcement_date": "2024-04-27",
+    "expected_completion_date": "2027-10-20",
+    "impact_radius_km": 4
+  },
+  {
+    "city": "Pune",
+    "area": "Aundh",
+    "project_name": "Pune IT Park Development",
+    "project_type": "IT Park",
+    "status": "Completed",
+    "announcement_date": "2025-01-11",
+    "expected_completion_date": "2024-07-01",
+    "impact_radius_km": 2
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "project_name": "Pune Highway Development",
+    "project_type": "Highway",
+    "status": "In Progress",
+    "announcement_date": "2024-12-16",
+    "expected_completion_date": "2027-02-14",
+    "impact_radius_km": 8
+  },
+  {
+    "city": "Pune",
+    "area": "Hinjewadi",
+    "project_name": "Pune Hospital Development",
+    "project_type": "Hospital",
+    "status": "Completed",
+    "announcement_date": "2023-04-09",
+    "expected_completion_date": "2024-04-04",
+    "impact_radius_km": 9
+  },
+  {
+    "city": "Pune",
+    "area": "Kothrud",
+    "project_name": "Pune IT Park Development",
+    "project_type": "IT Park",
+    "status": "Completed",
+    "announcement_date": "2023-07-19",
+    "expected_completion_date": "2024-04-17",
+    "impact_radius_km": 4
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "project_name": "Delhi-NCR Mall Development",
+    "project_type": "Mall",
+    "status": "In Progress",
+    "announcement_date": "2023-03-10",
+    "expected_completion_date": "2025-06-03",
+    "impact_radius_km": 7
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "project_name": "Delhi-NCR Hospital Development",
+    "project_type": "Hospital",
+    "status": "Announced",
+    "announcement_date": "2024-05-25",
+    "expected_completion_date": "2026-04-26",
+    "impact_radius_km": 9
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Gurgaon",
+    "project_name": "Delhi-NCR Mall Development",
+    "project_type": "Mall",
+    "status": "In Progress",
+    "announcement_date": "2024-12-01",
+    "expected_completion_date": "2025-05-17",
+    "impact_radius_km": 5
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "project_name": "Delhi-NCR IT Park Development",
+    "project_type": "IT Park",
+    "status": "In Progress",
+    "announcement_date": "2023-04-02",
+    "expected_completion_date": "2026-03-24",
+    "impact_radius_km": 8
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Noida",
+    "project_name": "Delhi-NCR IT Park Development",
+    "project_type": "IT Park",
+    "status": "Completed",
+    "announcement_date": "2023-06-17",
+    "expected_completion_date": "2024-06-29",
+    "impact_radius_km": 2
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Greater Noida",
+    "project_name": "Delhi-NCR University Development",
+    "project_type": "University",
+    "status": "In Progress",
+    "announcement_date": "2023-06-10",
+    "expected_completion_date": "2025-06-15",
+    "impact_radius_km": 8
+  },
+  {
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "project_name": "Delhi-NCR Airport Development",
+    "project_type": "Airport",
+    "status": "In Progress",
+    "announcement_date": "2023-06-05",
+    "expected_completion_date": "2025-11-30",
+    "impact_radius_km": 1
+  }
+]
