@@ -355,8 +355,8 @@ def render_demand_map_dashboard():
                 st.markdown("""
                 <div style="background-color:#EFF6FF; padding:20px; border-radius:8px; text-align:center; margin-top:50px; border:1px dashed #3B82F6">
                     <img src="https://cdn-icons-png.flaticon.com/512/1077/1077969.png" width="40" style="margin-bottom:10px">
-                    <h3>Select a Location</h3>
-                    <p>Click anywhere on the map to analyze real estate demand and investment potential for that location.</p>
+                    <h3 style="color:#1F2937">Select a Location</h3>
+                    <p style="color:#4B5563">Click anywhere on the map to analyze real estate demand and investment potential for that location.</p>
                 </div>
                 """, unsafe_allow_html=True)
     
@@ -369,7 +369,7 @@ def render_demand_map_dashboard():
             
             st.markdown("""
             <div style="background-color:#F0FDF4; padding:10px 15px; border-radius:6px; margin-bottom:20px; border-left:4px solid #22C55E">
-                <h3 style="margin:5px 0">High Potential Areas Nearby</h3>
+                <h3 style="margin:5px 0; color:#1F2937">High Potential Areas Nearby</h3>
                 <p style="color:#4B5563; margin:5px 0">Discover upcoming neighborhoods with strong investment potential within 20km radius</p>
             </div>
             """, unsafe_allow_html=True)
@@ -428,6 +428,7 @@ def render_demand_map_dashboard():
             st.markdown("""
             <div style="background-color:#F8FAFC; padding:15px; border-radius:8px; border:1px solid #E2E8F0; margin-top:20px">
                 <h3 style="color:#1E40AF; border-bottom:1px solid #E2E8F0; padding-bottom:8px">Investment Timeline Prediction</h3>
+                <p style="color:#4B5563; margin:5px 0">Projected price growth over the next 5 years based on current trends</p>
             """, unsafe_allow_html=True)
             
             # Create a timeline chart showing price growth prediction
@@ -510,8 +511,8 @@ def render_demand_map_dashboard():
             st.markdown("""
             <div style="background-color:#FEF2F2; padding:20px; border-radius:8px; text-align:center; margin-top:30px">
                 <img src="https://cdn-icons-png.flaticon.com/512/1250/1250751.png" width="40" style="margin-bottom:10px">
-                <h3>No Location Selected</h3>
-                <p>Please go to the Demand Map tab and click on a location to view detailed market insights and analytics.</p>
+                <h3 style="color:#1F2937">No Location Selected</h3>
+                <p style="color:#4B5563">Please go to the Demand Map tab and click on a location to view detailed market insights and analytics.</p>
             </div>
             """, unsafe_allow_html=True)
     
@@ -522,32 +523,32 @@ def render_demand_map_dashboard():
         st.markdown("""
         <div style="background-color:#F8FAFC; padding:20px; border-radius:8px; border:1px solid #E2E8F0; margin-bottom:20px">
             <h3 style="color:#1E40AF; border-bottom:1px solid #E2E8F0; padding-bottom:10px">Understanding the Data</h3>
-            <p>Our AI-powered demand prediction model analyzes multiple factors to calculate real estate demand and investment potential:</p>
+            <p style="color:#1F2937">Our AI-powered demand prediction model analyzes multiple factors to calculate real estate demand and investment potential:</p>
             
             <div style="display:flex; margin:15px 0; align-items:center">
                 <div style="background-color:#3B82F6; color:white; border-radius:50%; width:30px; height:30px; display:flex; justify-content:center; align-items:center; margin-right:15px">1</div>
-                <div>
+                <div style="color:#1F2937">
                     <strong>Current Demand (0-100)</strong>: Measures present market interest and activity
                 </div>
             </div>
             
             <div style="display:flex; margin:15px 0; align-items:center">
                 <div style="background-color:#3B82F6; color:white; border-radius:50%; width:30px; height:30px; display:flex; justify-content:center; align-items:center; margin-right:15px">2</div>
-                <div>
+                <div style="color:#1F2937">
                     <strong>Trend</strong>: Indicates whether demand is increasing, stable, or decreasing
                 </div>
             </div>
             
             <div style="display:flex; margin:15px 0; align-items:center">
                 <div style="background-color:#3B82F6; color:white; border-radius:50%; width:30px; height:30px; display:flex; justify-content:center; align-items:center; margin-right:15px">3</div>
-                <div>
+                <div style="color:#1F2937">
                     <strong>Future Potential (1-10)</strong>: Predicts long-term growth prospects
                 </div>
             </div>
             
             <div style="display:flex; margin:15px 0; align-items:center">
                 <div style="background-color:#3B82F6; color:white; border-radius:50%; width:30px; height:30px; display:flex; justify-content:center; align-items:center; margin-right:15px">4</div>
-                <div>
+                <div style="color:#1F2937">
                     <strong>Key Factors</strong>: Important elements influencing demand in the area
                 </div>
             </div>
@@ -557,23 +558,23 @@ def render_demand_map_dashboard():
             <h3 style="color:#1E40AF; border-bottom:1px solid #E2E8F0; padding-bottom:10px">How to Use This Tool</h3>
             
             <ol style="padding-left:20px">
-                <li style="margin-bottom:10px"><strong>Select a Location</strong>: Click anywhere on the map to analyze that specific location</li>
-                <li style="margin-bottom:10px"><strong>Analyze Demand</strong>: View current demand, trends, and future potential</li>
-                <li style="margin-bottom:10px"><strong>Explore Nearby Areas</strong>: Discover high-potential neighborhoods in the vicinity</li>
-                <li style="margin-bottom:10px"><strong>Review Insights</strong>: Check detailed market projections and ROI estimates</li>
-                <li style="margin-bottom:10px"><strong>Compare Multiple Areas</strong>: Click different locations to compare opportunities</li>
+                <li style="margin-bottom:10px; color:#1F2937"><strong>Select a Location</strong>: Click anywhere on the map to analyze that specific location</li>
+                <li style="margin-bottom:10px; color:#1F2937"><strong>Analyze Demand</strong>: View current demand, trends, and future potential</li>
+                <li style="margin-bottom:10px; color:#1F2937"><strong>Explore Nearby Areas</strong>: Discover high-potential neighborhoods in the vicinity</li>
+                <li style="margin-bottom:10px; color:#1F2937"><strong>Review Insights</strong>: Check detailed market projections and ROI estimates</li>
+                <li style="margin-bottom:10px; color:#1F2937"><strong>Compare Multiple Areas</strong>: Click different locations to compare opportunities</li>
             </ol>
         </div>
         
         <div style="background-color:#F0FDF4; padding:15px; border-radius:8px; border-left:4px solid #22C55E">
-            <p style="margin:5px 0"><strong>Note:</strong> This demonstration uses simulated data for illustration purposes. In a production environment, the tool would incorporate real-time market data, historical trends, infrastructure development plans, and AI predictions.</p>
+            <p style="margin:5px 0; color:#1F2937"><strong>Note:</strong> This demonstration uses simulated data for illustration purposes. In a production environment, the tool would incorporate real-time market data, historical trends, infrastructure development plans, and AI predictions.</p>
         </div>
         """, unsafe_allow_html=True)
     
     # Footer section
     st.markdown("---")
     st.markdown("""
-    <div style="display:flex; justify-content:center; color:#6B7280; font-size:14px">
+    <div style="display:flex; justify-content:center; color:#6B7280; font-size:14px; background-color:#F9FAFB; padding:10px; border-radius:5px">
         <p>Data updated: March 2025 | Real Estate AI Insights | Powered by OpenStreetMap & AI Analysis</p>
     </div>
     """, unsafe_allow_html=True)
