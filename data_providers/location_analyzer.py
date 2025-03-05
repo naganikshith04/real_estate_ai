@@ -6,10 +6,8 @@ import time
 from datetime import datetime
 import pandas as pd
 import numpy as np
-from dotenv import load_dotenv
-
-# Load environment variables
-load_dotenv()
+from config import logger, GEOCODING_APIS
+import random
 
 class LocationAnalyzer:
     """
@@ -19,6 +17,9 @@ class LocationAnalyzer:
     
     def __init__(self):
         """Initialize the location analyzer with OpenStreetMap services"""
+        self.logger = logger.getChild("location_analyzer")
+        self.logger.info("Initializing LocationAnalyzer")
+        
         # Define the Nominatim API endpoint (for geocoding)
         self.nominatim_endpoint = "https://nominatim.openstreetmap.org/search"
         self.user_agent = "real_estate_ai/1.0"  # Required for Nominatim API
@@ -35,6 +36,10 @@ class LocationAnalyzer:
         # POI data for cities (to avoid too many API calls)
         self.poi_cache = {}
         
+        # Add retry mechanism for APIs
+        self.max_retries = 3
+        self.retry_delay = 2
+        
     def has_api_key(self):
         """Compatibility method - always returns True since we're using free services"""
         return True
@@ -42,6 +47,7 @@ class LocationAnalyzer:
     def geocode_with_nominatim(self, query):
         """
         Use OpenStreetMap's Nominatim service to geocode an address
+        Implements retries and better error handling
         
         Args:
             query (str): The address or location to geocode
@@ -49,35 +55,67 @@ class LocationAnalyzer:
         Returns:
             dict: Latitude and longitude, or None if not found
         """
-        try:
-            # Build the Nominatim API query
-            params = {
-                "q": query,
-                "format": "json",
-                "limit": 1
-            }
+        self.logger.info(f"Geocoding: {query}")
+        
+        for attempt in range(self.max_retries):
+            try:
+                # Build the Nominatim API query
+                params = {
+                    "q": query,
+                    "format": "json",
+                    "limit": 1
+                }
+                
+                # Add user agent (required by Nominatim's ToS)
+                headers = {"User-Agent": self.user_agent}
+                
+                # Make the request
+                self.logger.debug(f"Making geocoding request, attempt {attempt+1}/{self.max_retries}")
+                response = requests.get(self.nominatim_endpoint, params=params, headers=headers, timeout=10)
+                
+                # Respect Nominatim's usage policy (1 request per second)
+                time.sleep(1.1)  # Slightly longer to be safe
+                
+                if response.status_code == 200:
+                    results = response.json()
+                    if results and len(results) > 0:
+                        result = {
+                            "lat": float(results[0]["lat"]), 
+                            "lng": float(results[0]["lon"]),
+                            "osm_id": results[0].get("osm_id"),
+                            "display_name": results[0].get("display_name", "")
+                        }
+                        self.logger.info(f"Successfully geocoded: {query}")
+                        return result
+                    else:
+                        self.logger.warning(f"No results found for: {query}")
+                else:
+                    self.logger.warning(f"Geocoding API returned status code {response.status_code}")
+                    
+                # If we get here, it means we should retry
+                if attempt < self.max_retries - 1:
+                    wait_time = self.retry_delay * (attempt + 1)
+                    self.logger.info(f"Retrying in {wait_time} seconds...")
+                    time.sleep(wait_time)
             
-            # Add user agent (required by Nominatim's ToS)
-            headers = {"User-Agent": self.user_agent}
-            
-            # Make the request
-            response = requests.get(self.nominatim_endpoint, params=params, headers=headers)
-            
-            # Respect Nominatim's usage policy (1 request per second)
-            time.sleep(1)
-            
-            if response.status_code == 200:
-                results = response.json()
-                if results and len(results) > 0:
-                    return {
-                        "lat": float(results[0]["lat"]), 
-                        "lng": float(results[0]["lon"])
-                    }
-            
-            return None
-        except Exception as e:
-            print(f"Error in geocoding: {str(e)}")
-            return None
+            except requests.exceptions.Timeout:
+                self.logger.warning(f"Timeout during geocoding request, attempt {attempt+1}")
+                if attempt < self.max_retries - 1:
+                    time.sleep(self.retry_delay * (attempt + 1))
+                    
+            except requests.exceptions.RequestException as e:
+                self.logger.warning(f"Request exception during geocoding: {str(e)}")
+                if attempt < self.max_retries - 1:
+                    time.sleep(self.retry_delay * (attempt + 1))
+                    
+            except Exception as e:
+                self.logger.error(f"Error in geocoding: {str(e)}")
+                if attempt < self.max_retries - 1:
+                    time.sleep(self.retry_delay * (attempt + 1))
+        
+        # If all retries failed, return None
+        self.logger.error(f"All geocoding attempts failed for {query}")
+        return None
     
     def generate_area_map(self, city, areas):
         """

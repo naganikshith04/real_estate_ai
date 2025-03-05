@@ -406,7 +406,8 @@ class CommercialREAnalysis:
         st.title("🏢 Commercial Real Estate Analysis")
         st.write("Specialized tools for analyzing commercial real estate opportunities in the Indian market.")
         
-        tab1, tab2, tab3 = st.tabs(["🗺️ Business District Proximity", "👥 Foot Traffic Analysis", "📋 Zoning Analysis"])
+        # Use a more mobile-friendly tab layout
+        tab1, tab2, tab3 = st.tabs(["🗺️ Business Districts", "👥 Foot Traffic", "📋 Zoning"])
         
         # Common location selection UI
         st.sidebar.header("Location Selection")
@@ -534,8 +535,8 @@ class CommercialREAnalysis:
                                         dash_array='5'
                                     ).add_to(bd_map)
                                 
-                                # Display map
-                                st_folium(bd_map, width=700, height=400)
+                                # Display map - responsive width for mobile
+                                st_folium(bd_map, width="100%", height=400)
                             else:
                                 st.error("Unable to generate map for this location.")
                         except Exception as e:
@@ -561,7 +562,8 @@ class CommercialREAnalysis:
                     # Create distance visualization
                     st.subheader("Distance Comparison")
                     
-                    fig, ax = plt.subplots(figsize=(10, 5))
+                    # More mobile-friendly figure size
+                    fig, ax = plt.subplots(figsize=(8, min(6, len(district_df)*0.5+1)))
                     
                     # Extract data for plotting
                     districts = district_df["Business District"].tolist()
@@ -573,11 +575,11 @@ class CommercialREAnalysis:
                     # Plot horizontal bars
                     bars = ax.barh(districts, distances, color=colors)
                     
-                    # Add value labels
+                    # Add value labels - larger font for mobile
                     for bar in bars:
                         width = bar.get_width()
                         ax.text(width + 0.3, bar.get_y() + bar.get_height()/2, 
-                               f"{width:.1f} km", va='center')
+                               f"{width:.1f} km", va='center', fontsize=10)
                     
                     ax.set_xlabel("Distance (km)")
                     ax.set_title("Distance to Key Business Districts")

@@ -1,0 +1,98 @@
+{
+  "analysis_date": "2025-03-04",
+  "top_investment_areas": [
+    {
+      "city": "Bangalore",
+      "area": "Whitefield",
+      "roi_5yr": 82.75152518520225,
+      "strategy": "High potential investment"
+    },
+    {
+      "city": "Hyderabad",
+      "area": "Gachibowli",
+      "roi_5yr": 79.70047060817865,
+      "strategy": "High potential investment"
+    },
+    {
+      "city": "Pune",
+      "area": "Hinjewadi",
+      "roi_5yr": 71.23392754617055,
+      "strategy": "High potential investment"
+    },
+    {
+      "city": "Hyderabad",
+      "area": "Banjara Hills",
+      "roi_5yr": 71.01096050683289,
+      "strategy": "High potential investment"
+    },
+    {
+      "city": "Pune",
+      "area": "Baner",
+      "roi_5yr": 70.94154575259213,
+      "strategy": "High potential investment"
+    }
+  ],
+  "market_outlook": {
+    "summary": "The Indian real estate market shows strong growth potential in tech-focused cities like Bangalore and Hyderabad.",
+    "growth_drivers": [
+      "Infrastructure development, especially metro connectivity",
+      "Technology sector expansion creating job demand",
+      "Limited supply in high-demand areas"
+    ],
+    "risk_factors": [
+      "Regulatory changes impacting development",
+      "Potential economic slowdown affecting demand",
+      "Infrastructure project delays"
+    ]
+  },
+  "investment_strategies": [
+    {
+      "strategy": "Long-term Growth",
+      "description": "Invest in emerging areas with planned infrastructure projects for maximum appreciation",
+      "recommended_areas": [
+        [
+          "Bangalore",
+          "Whitefield",
+          82.75152518520225
+        ],
+        [
+          "Hyderabad",
+          "Gachibowli",
+          79.70047060817865
+        ]
+      ]
+    },
+    {
+      "strategy": "Stable Income",
+      "description": "Focus on areas with established rental demand and moderate appreciation",
+      "recommended_areas": [
+        [
+          "Pune",
+          "Hinjewadi",
+          71.23392754617055
+        ],
+        [
+          "Hyderabad",
+          "Banjara Hills",
+          71.01096050683289
+        ]
+      ]
+    },
+    {
+      "strategy": "Balanced Approach",
+      "description": "Mix of properties in both high-growth and stable areas to balance risk and return",
+      "recommended_areas": [
+        [
+          "Bangalore",
+          "Whitefield",
+          82.75152518520225
+        ],
+        [
+          "Pune",
+          "Baner",
+          70.94154575259213
+        ]
+      ]
+    }
+  ]
+}

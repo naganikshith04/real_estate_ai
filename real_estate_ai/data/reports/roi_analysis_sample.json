@@ -1,0 +1,551 @@
+{
+  "city_roi_analysis": {
+    "Mumbai": {
+      "areas_by_roi": [
+        [
+          "Bandra",
+          70.84838631039764,
+          {
+            "current_price_per_sqft": 13860.088967273612,
+            "historical_growth": 0.11306922763537378,
+            "infrastructure_impact": 3.667159805841689,
+            "roi_projections": {
+              "projected_annual_growth": 0.11306922763537378,
+              "3_year_roi_percent": 37.90071841483069,
+              "5_year_roi_percent": 70.84838631039764,
+              "10_year_roi_percent": 191.8917110486687,
+              "risk_score": 3.423719395026596
+            }
+          }
+        ],
+        [
+          "Worli",
+          69.94781493727453,
+          {
+            "current_price_per_sqft": 13993.312567479574,
+            "historical_growth": 0.1118933095720365,
+            "infrastructure_impact": 0.5155911463214382,
+            "roi_projections": {
+              "projected_annual_growth": 0.1118933095720365,
+              "3_year_roi_percent": 37.46411837462973,
+              "5_year_roi_percent": 69.94781493727453,
+              "10_year_roi_percent": 188.82259801954115,
+              "risk_score": 6.682781357305659
+            }
+          }
+        ],
+        [
+          "Powai",
+          61.26342395825666,
+          {
+            "current_price_per_sqft": 10970.478946007715,
+            "historical_growth": 0.10029002386887192,
+            "infrastructure_impact": 3.971731136649316,
+            "roi_projections": {
+              "projected_annual_growth": 0.10029002386887192,
+              "3_year_roi_percent": 33.20530642440873,
+              "5_year_roi_percent": 61.26342395825666,
+              "10_year_roi_percent": 160.05891906740425,
+              "risk_score": 3.049869760630168
+            }
+          }
+        ],
+        [
+          "Juhu",
+          50.09905492447753,
+          {
+            "current_price_per_sqft": 11290.652791937011,
+            "historical_growth": 0.08461496307159053,
+            "infrastructure_impact": 0.7352908503758391,
+            "roi_projections": {
+              "projected_annual_growth": 0.08461496307159053,
+              "3_year_roi_percent": 27.5929782213711,
+              "5_year_roi_percent": 50.09905492447753,
+              "10_year_roi_percent": 125.29726289221324,
+              "risk_score": 7.952587748638666
+            }
+          }
+        ],
+        [
+          "Andheri",
+          39.264948004396395,
+          {
+            "current_price_per_sqft": 12863.7870065331,
+            "historical_growth": 0.06848483909768141,
+            "infrastructure_impact": 0.9336466018111005,
+            "roi_projections": {
+              "projected_annual_growth": 0.06848483909768141,
+              "3_year_roi_percent": 21.984624260774943,
+              "5_year_roi_percent": 39.264948004396395,
+              "10_year_roi_percent": 93.94725742667231,
+              "risk_score": 4.934688673865266
+            }
+          }
+        ]
+      ]
+    },
+    "Bangalore": {
+      "areas_by_roi": [
+        [
+          "Whitefield",
+          82.75152518520225,
+          {
+            "current_price_per_sqft": 7914.779120630815,
+            "historical_growth": 0.12816390872256636,
+            "infrastructure_impact": 1.244578483032066,
+            "roi_projections": {
+              "projected_annual_growth": 0.12816390872256636,
+              "3_year_roi_percent": 43.58749074273438,
+              "5_year_roi_percent": 82.75152518520225,
+              "10_year_roi_percent": 233.9811995751761,
+              "risk_score": 3.432704841703738
+            }
+          }
+        ],
+        [
+          "HSR Layout",
+          67.69018170574222,
+          {
+            "current_price_per_sqft": 12211.225133030894,
+            "historical_growth": 0.10892334690803757,
+            "infrastructure_impact": 2.325302796063456,
+            "roi_projections": {
+              "projected_annual_growth": 0.10892334690803757,
+              "3_year_roi_percent": 36.365522600380416,
+              "5_year_roi_percent": 67.69018170574222,
+              "10_year_roi_percent": 181.1999704050484,
+              "risk_score": 3.7763039086395622
+            }
+          }
+        ],
+        [
+          "Electronic City",
+          62.27636035201154,
+          {
+            "current_price_per_sqft": 12597.166293028298,
+            "historical_growth": 0.10166880406133813,
+            "infrastructure_impact": 3.2028634752653735,
+            "roi_projections": {
+              "projected_annual_growth": 0.10166880406133813,
+              "3_year_roi_percent": 33.706695358320516,
+              "5_year_roi_percent": 62.27636035201154,
+              "10_year_roi_percent": 163.33617129095904,
+              "risk_score": 4.136580083180715
+            }
+          }
+        ],
+        [
+          "Indiranagar",
+          43.92895982962437,
+          {
+            "current_price_per_sqft": 13190.559572891134,
+            "historical_growth": 0.0755476045578317,
+            "infrastructure_impact": 3.6740738916944515,
+            "roi_projections": {
+              "projected_annual_growth": 0.0755476045578317,
+              "3_year_roi_percent": 24.41963187988174,
+              "5_year_roi_percent": 43.92895982962437,
+              "10_year_roi_percent": 107.15545477637627,
+              "risk_score": 7.867579188789028
+            }
+          }
+        ],
+        [
+          "Koramangala",
+          28.446754219379567,
+          {
+            "current_price_per_sqft": 10078.867018168907,
+            "historical_growth": 0.051343482756561754,
+            "infrastructure_impact": 3.3688589510629567,
+            "roi_projections": {
+              "projected_annual_growth": 0.051343482756561754,
+              "3_year_roi_percent": 16.207425722188074,
+              "5_year_roi_percent": 28.446754219379567,
+              "10_year_roi_percent": 64.98568669493703,
+              "risk_score": 5.361160204264199
+            }
+          }
+        ]
+      ]
+    },
+    "Hyderabad": {
+      "areas_by_roi": [
+        [
+          "Gachibowli",
+          79.70047060817865,
+          {
+            "current_price_per_sqft": 8687.448110436158,
+            "historical_growth": 0.12437153648942872,
+            "infrastructure_impact": 0.9015127277212054,
+            "roi_projections": {
+              "projected_annual_growth": 0.12437153648942872,
+              "3_year_roi_percent": 42.14432603716239,
+              "5_year_roi_percent": 79.70047060817865,
+              "10_year_roi_percent": 222.9225913680087,
+              "risk_score": 5.4716233799242024
+            }
+          }
+        ],
+        [
+          "Banjara Hills",
+          71.01096050683289,
+          {
+            "current_price_per_sqft": 8675.986275355106,
+            "historical_growth": 0.11328097970563634,
+            "infrastructure_impact": 1.77626660879992,
+            "roi_projections": {
+              "projected_annual_growth": 0.11328097970563634,
+              "3_year_roi_percent": 37.979436748179566,
+              "5_year_roi_percent": 71.01096050683289,
+              "10_year_roi_percent": 192.44748613469557,
+              "risk_score": 2.196859010502666
+            }
+          }
+        ],
+        [
+          "Madhapur",
+          66.32136128474096,
+          {
+            "current_price_per_sqft": 8707.078523278095,
+            "historical_growth": 0.10710702409449843,
+            "infrastructure_impact": 1.6899035870562011,
+            "roi_projections": {
+              "projected_annual_growth": 0.10710702409449843,
+              "3_year_roi_percent": 35.69655387492177,
+              "5_year_roi_percent": 66.32136128474096,
+              "10_year_roi_percent": 176.62795219609322,
+              "risk_score": 3.297235452684135
+            }
+          }
+        ],
+        [
+          "Jubilee Hills",
+          48.553221219848574,
+          {
+            "current_price_per_sqft": 5542.002796157023,
+            "historical_growth": 0.08237166546131482,
+            "infrastructure_impact": 0.7238434509097313,
+            "roi_projections": {
+              "projected_annual_growth": 0.08237166546131482,
+              "3_year_roi_percent": 26.80291694648458,
+              "5_year_roi_percent": 48.553221219848574,
+              "10_year_roi_percent": 120.68059534793267,
+              "risk_score": 4.780790560203692
+            }
+          }
+        ],
+        [
+          "HITEC City",
+          40.73211952547939,
+          {
+            "current_price_per_sqft": 8626.612539867852,
+            "historical_growth": 0.07072673248609945,
+            "infrastructure_impact": 2.1956866699239526,
+            "roi_projections": {
+              "projected_annual_growth": 0.07072673248609945,
+              "3_year_roi_percent": 22.754080378356356,
+              "5_year_roi_percent": 40.73211952547939,
+              "10_year_roi_percent": 98.05529466133815,
+              "risk_score": 3.0773426851185928
+            }
+          }
+        ]
+      ]
+    },
+    "Pune": {
+      "areas_by_roi": [
+        [
+          "Hinjewadi",
+          71.23392754617055,
+          {
+            "current_price_per_sqft": 8498.785399356731,
+            "historical_growth": 0.1135711314110535,
+            "infrastructure_impact": 0.7389835942795362,
+            "roi_projections": {
+              "projected_annual_growth": 0.1135711314110535,
+              "3_year_roi_percent": 38.08734859991609,
+              "5_year_roi_percent": 71.23392754617055,
+              "10_year_roi_percent": 193.21057942887188,
+              "risk_score": 4.1072987886628205
+            }
+          }
+        ],
+        [
+          "Baner",
+          70.94154575259213,
+          {
+            "current_price_per_sqft": 6994.740908196241,
+            "historical_growth": 0.11319058704827076,
+            "infrastructure_impact": 2.0003193823872873,
+            "roi_projections": {
+              "projected_annual_growth": 0.11319058704827076,
+              "3_year_roi_percent": 37.94582982724302,
+              "5_year_roi_percent": 70.94154575259213,
+              "10_year_roi_percent": 192.21012064285551,
+              "risk_score": 7.483310508849124
+            }
+          }
+        ],
+        [
+          "Kothrud",
+          31.269320206117722,
+          {
+            "current_price_per_sqft": 5036.091979385652,
+            "historical_growth": 0.05592396647128551,
+            "infrastructure_impact": 0.8950257352590074,
+            "roi_projections": {
+              "projected_annual_growth": 0.05592396647128551,
+              "3_year_roi_percent": 17.732927113884788,
+              "5_year_roi_percent": 31.269320206117722,
+              "10_year_roi_percent": 72.31634427376264,
+              "risk_score": 6.140344466178103
+            }
+          }
+        ],
+        [
+          "Viman Nagar",
+          29.26410882734125,
+          {
+            "current_price_per_sqft": 7300.394453799327,
+            "historical_growth": 0.05267810812537976,
+            "infrastructure_impact": 3.9655090473164116,
+            "roi_projections": {
+              "projected_annual_growth": 0.05267810812537976,
+              "3_year_roi_percent": 16.65054544616531,
+              "5_year_roi_percent": 29.26410882734125,
+              "10_year_roi_percent": 67.09209830926721,
+              "risk_score": 2.4543543207733514
+            }
+          }
+        ],
+        [
+          "Aundh",
+          27.670192796462434,
+          {
+            "current_price_per_sqft": 5502.553087201229,
+            "historical_growth": 0.05006915803085403,
+            "infrastructure_impact": 3.7352265217029235,
+            "roi_projections": {
+              "projected_annual_growth": 0.05006915803085403,
+              "3_year_roi_percent": 15.785375525330547,
+              "5_year_roi_percent": 27.670192796462434,
+              "10_year_roi_percent": 62.996781286858884,
+              "risk_score": 6.205389652512979
+            }
+          }
+        ]
+      ]
+    },
+    "Delhi-NCR": {
+      "areas_by_roi": [
+        [
+          "Dwarka",
+          67.28999990437998,
+          {
+            "current_price_per_sqft": 12119.641352220106,
+            "historical_growth": 0.10839356614463178,
+            "infrastructure_impact": 2.358791310318717,
+            "roi_projections": {
+              "projected_annual_growth": 0.10839356614463178,
+              "3_year_roi_percent": 36.1701727891798,
+              "5_year_roi_percent": 67.28999990437998,
+              "10_year_roi_percent": 179.85944068007456,
+              "risk_score": 4.62761153826576
+            }
+          }
+        ],
+        [
+          "Greater Noida",
+          61.13274560252522,
+          {
+            "current_price_per_sqft": 14313.947976146499,
+            "historical_growth": 0.10011164402805758,
+            "infrastructure_impact": 2.0760927613406217,
+            "roi_projections": {
+              "projected_annual_growth": 0.10011164402805758,
+              "3_year_roi_percent": 33.140530895572454,
+              "5_year_roi_percent": 61.13274560252522,
+              "10_year_roi_percent": 159.6376170540811,
+              "risk_score": 8.195089553453782
+            }
+          }
+        ],
+        [
+          "Noida",
+          61.04491741697227,
+          {
+            "current_price_per_sqft": 13465.52010410957,
+            "historical_growth": 0.09999169090236912,
+            "infrastructure_impact": 3.196476780905435,
+            "roi_projections": {
+              "projected_annual_growth": 0.09999169090236912,
+              "3_year_roi_percent": 33.096983820343475,
+              "5_year_roi_percent": 61.04491741697227,
+              "10_year_roi_percent": 159.35465425839416,
+              "risk_score": 4.866236813863016
+            }
+          }
+        ],
+        [
+          "Gurgaon",
+          51.673387841398636,
+          {
+            "current_price_per_sqft": 8930.184169476324,
+            "historical_growth": 0.08688070135223222,
+            "infrastructure_impact": 3.34674800900641,
+            "roi_projections": {
+              "projected_annual_growth": 0.08688070135223222,
+              "3_year_roi_percent": 28.39426706575665,
+              "5_year_roi_percent": 51.673387841398636,
+              "10_year_roi_percent": 130.04816579287328,
+              "risk_score": 7.735445425772333
+            }
+          }
+        ],
+        [
+          "Faridabad",
+          47.692804868487904,
+          {
+            "current_price_per_sqft": 15138.899475923177,
+            "historical_growth": 0.08111493685768621,
+            "infrastructure_impact": 2.2726702752459285,
+            "roi_projections": {
+              "projected_annual_growth": 0.08111493685768621,
+              "3_year_roi_percent": 26.361741603117306,
+              "5_year_roi_percent": 47.692804868487904,
+              "10_year_roi_percent": 118.13164609921247,
+              "risk_score": 5.990091201636641
+            }
+          }
+        ]
+      ]
+    }
+  },
+  "top_investment_areas": [
+    [
+      "Bangalore",
+      "Whitefield",
+      82.75152518520225
+    ],
+    [
+      "Hyderabad",
+      "Gachibowli",
+      79.70047060817865
+    ],
+    [
+      "Pune",
+      "Hinjewadi",
+      71.23392754617055
+    ],
+    [
+      "Hyderabad",
+      "Banjara Hills",
+      71.01096050683289
+    ],
+    [
+      "Pune",
+      "Baner",
+      70.94154575259213
+    ],
+    [
+      "Mumbai",
+      "Bandra",
+      70.84838631039764
+    ],
+    [
+      "Mumbai",
+      "Worli",
+      69.94781493727453
+    ],
+    [
+      "Bangalore",
+      "HSR Layout",
+      67.69018170574222
+    ],
+    [
+      "Delhi-NCR",
+      "Dwarka",
+      67.28999990437998
+    ],
+    [
+      "Hyderabad",
+      "Madhapur",
+      66.32136128474096
+    ],
+    [
+      "Bangalore",
+      "Electronic City",
+      62.27636035201154
+    ],
+    [
+      "Mumbai",
+      "Powai",
+      61.26342395825666
+    ],
+    [
+      "Delhi-NCR",
+      "Greater Noida",
+      61.13274560252522
+    ],
+    [
+      "Delhi-NCR",
+      "Noida",
+      61.04491741697227
+    ],
+    [
+      "Delhi-NCR",
+      "Gurgaon",
+      51.673387841398636
+    ],
+    [
+      "Mumbai",
+      "Juhu",
+      50.09905492447753
+    ],
+    [
+      "Hyderabad",
+      "Jubilee Hills",
+      48.553221219848574
+    ],
+    [
+      "Delhi-NCR",
+      "Faridabad",
+      47.692804868487904
+    ],
+    [
+      "Bangalore",
+      "Indiranagar",
+      43.92895982962437
+    ],
+    [
+      "Hyderabad",
+      "HITEC City",
+      40.73211952547939
+    ],
+    [
+      "Mumbai",
+      "Andheri",
+      39.264948004396395
+    ],
+    [
+      "Pune",
+      "Kothrud",
+      31.269320206117722
+    ],
+    [
+      "Pune",
+      "Viman Nagar",
+      29.26410882734125
+    ],
+    [
+      "Bangalore",
+      "Koramangala",
+      28.446754219379567
+    ],
+    [
+      "Pune",
+      "Aundh",
+      27.670192796462434
+    ]
+  ]
+}

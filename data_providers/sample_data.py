@@ -3,6 +3,7 @@ import os
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
+from config import logger, DATA_DIR, PROPERTY_LISTINGS_FILE, HISTORICAL_PRICES_FILE, INFRASTRUCTURE_PROJECTS_FILE, TARGET_CITIES
 
 class SampleDataProvider:
     """
@@ -10,7 +11,11 @@ class SampleDataProvider:
     """
     
     def __init__(self):
-        self.cities = ["Mumbai", "Bangalore", "Hyderabad", "Pune", "Delhi-NCR"]
+        """Initialize the sample data provider with cities and areas"""
+        self.logger = logger.getChild("sample_data")
+        self.logger.info("Initializing SampleDataProvider")
+        
+        self.cities = TARGET_CITIES
         self.areas = {
             "Mumbai": ["Andheri", "Bandra", "Worli", "Powai", "Juhu"],
             "Bangalore": ["Whitefield", "Electronic City", "Koramangala", "Indiranagar", "HSR Layout"],
@@ -19,8 +24,8 @@ class SampleDataProvider:
             "Delhi-NCR": ["Gurgaon", "Noida", "Greater Noida", "Dwarka", "Faridabad"]
         }
         
-        # Create data directory if it doesn't exist
-        os.makedirs("data", exist_ok=True)
+        # Ensure all directories exist
+        os.makedirs(DATA_DIR, exist_ok=True)
         
     def generate_property_listings(self):
         """Generate sample property listings data"""
@@ -51,11 +56,15 @@ class SampleDataProvider:
                     }
                     listings.append(listing)
         
-        # Save to JSON file
-        with open("data/property_listings.json", "w") as f:
-            json.dump(listings, f, indent=2)
-        
-        return listings
+        try:
+            # Save to JSON file
+            with open(PROPERTY_LISTINGS_FILE, "w") as f:
+                json.dump(listings, f, indent=2)
+            self.logger.info(f"Generated and saved {len(listings)} property listings")
+            return listings
+        except Exception as e:
+            self.logger.error(f"Error saving property listings: {str(e)}")
+            return []
     
     def generate_historical_prices(self):
         """Generate sample historical price data for past 5 years"""
@@ -100,11 +109,15 @@ class SampleDataProvider:
             else:
                 current_date = datetime(current_date.year, current_date.month + 1, 1)
         
-        # Save to JSON file
-        with open("data/historical_prices.json", "w") as f:
-            json.dump(historical_data, f, indent=2)
-        
-        return historical_data
+        try:
+            # Save to JSON file
+            with open(HISTORICAL_PRICES_FILE, "w") as f:
+                json.dump(historical_data, f, indent=2)
+            self.logger.info(f"Generated and saved {len(historical_data)} historical price data points")
+            return historical_data
+        except Exception as e:
+            self.logger.error(f"Error saving historical prices: {str(e)}")
+            return []
     
     def generate_infrastructure_projects(self):
         """Generate sample infrastructure development data"""
@@ -141,21 +154,81 @@ class SampleDataProvider:
                 }
                 projects.append(project)
         
-        # Save to JSON file
-        with open("data/infrastructure_projects.json", "w") as f:
-            json.dump(projects, f, indent=2)
-        
-        return projects
+        try:
+            # Save to JSON file
+            with open(INFRASTRUCTURE_PROJECTS_FILE, "w") as f:
+                json.dump(projects, f, indent=2)
+            self.logger.info(f"Generated and saved {len(projects)} infrastructure projects")
+            return projects
+        except Exception as e:
+            self.logger.error(f"Error saving infrastructure projects: {str(e)}")
+            return []
     
     def generate_all_sample_data(self):
         """Generate all sample data files"""
+        self.logger.info("Generating all sample data")
+        
         property_listings = self.generate_property_listings()
         historical_prices = self.generate_historical_prices()
         infrastructure_projects = self.generate_infrastructure_projects()
         
-        print(f"Generated {len(property_listings)} property listings")
-        print(f"Generated {len(historical_prices)} historical price data points")
-        print(f"Generated {len(infrastructure_projects)} infrastructure projects")
+        # Create ROI analysis sample
+        try:
+            sample_roi = {
+                "top_investment_areas": [
+                    ["Bangalore", "Whitefield", 38.5],
+                    ["Pune", "Hinjewadi", 36.7],
+                    ["Hyderabad", "HITEC City", 35.8],
+                    ["Mumbai", "Powai", 33.2],
+                    ["Bangalore", "Electronic City", 32.9],
+                    ["Hyderabad", "Gachibowli", 32.5],
+                    ["Pune", "Baner", 30.1],
+                    ["Mumbai", "Bandra", 29.7],
+                    ["Hyderabad", "Madhapur", 28.5],
+                    ["Delhi-NCR", "Gurgaon", 27.8]
+                ],
+                "city_roi_analysis": {}
+            }
+            
+            # Add city-specific ROI data
+            for city in self.cities:
+                areas_by_roi = []
+                for area in self.areas[city]:
+                    roi = np.random.uniform(15, 40)
+                    area_data = {
+                        "growth_factors": [
+                            {"factor": "Infrastructure", "impact": np.random.uniform(3, 5)},
+                            {"factor": "Job Growth", "impact": np.random.uniform(2, 5)},
+                            {"factor": "Connectivity", "impact": np.random.uniform(2, 4)}
+                        ],
+                        "roi_projections": {
+                            "3_year_roi_percent": roi * 0.6,
+                            "5_year_roi_percent": roi,
+                            "10_year_roi_percent": roi * 1.8,
+                            "risk_score": np.random.uniform(2, 8)
+                        }
+                    }
+                    areas_by_roi.append([area, roi, area_data])
+                
+                # Sort by ROI (descending)
+                areas_by_roi.sort(key=lambda x: x[1], reverse=True)
+                
+                sample_roi["city_roi_analysis"][city] = {
+                    "areas_by_roi": areas_by_roi,
+                    "avg_roi": np.mean([a[1] for a in areas_by_roi])
+                }
+            
+            # Save ROI analysis
+            os.makedirs(os.path.dirname(os.path.join(DATA_DIR, "reports")), exist_ok=True)
+            with open(os.path.join(DATA_DIR, "reports", "roi_analysis_sample.json"), "w") as f:
+                json.dump(sample_roi, f, indent=2)
+                
+            self.logger.info("Generated and saved sample ROI analysis")
+            
+        except Exception as e:
+            self.logger.error(f"Error saving ROI analysis sample: {str(e)}")
+        
+        self.logger.info(f"Successfully generated all sample data")
         
         return {
             "property_listings": property_listings,
