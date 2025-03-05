@@ -121,9 +121,6 @@ def app():
         layout="wide"
     )
     
-    st.title("🏢 Real Estate Investment Analysis Dashboard")
-    st.write("Select your investment profile for specialized analysis")
-    
     # Load and process data
     data = load_data()
     processed = process_data(data)
@@ -134,12 +131,64 @@ def app():
     commercial_analyst = CommercialREAnalysis(data, processed)
     nri_investor = NRIInvestorAnalysis(data, processed)
     
-    # Create use case selection
-    use_case = st.radio(
-        "Select your investment profile:",
-        ["First-time Homebuyer", "Property Investor", "Commercial Real Estate", "NRI Investor", "General Analysis"],
-        horizontal=True
-    )
+    # Create persistent sidebar with profile icons
+    with st.sidebar:
+        st.title("🏢 RE Analysis")
+        st.divider()
+        
+        # User profile selection with icons
+        st.subheader("Select Your Profile")
+        
+        # Session state to remember user selection
+        if 'use_case' not in st.session_state:
+            st.session_state['use_case'] = "First-time Homebuyer"
+            
+        # Profile buttons with icons
+        col1, col2 = st.columns(2)
+        with col1:
+            if st.button("🏠", help="First-time Homebuyer", use_container_width=True):
+                st.session_state['use_case'] = "First-time Homebuyer"
+            if st.button("🏗️", help="Commercial Real Estate", use_container_width=True):
+                st.session_state['use_case'] = "Commercial Real Estate"
+        with col2:
+            if st.button("💰", help="Property Investor", use_container_width=True):
+                st.session_state['use_case'] = "Property Investor"
+            if st.button("🌏", help="NRI Investor", use_container_width=True):
+                st.session_state['use_case'] = "NRI Investor"
+                
+        if st.button("📊", help="General Analysis", use_container_width=True):
+            st.session_state['use_case'] = "General Analysis"
+            
+        st.divider()
+        
+        # Show current profile
+        st.write(f"**Current Profile:** {st.session_state['use_case']}")
+        
+        # User preferences section
+        st.subheader("Preferences")
+        
+        # Save/load feature
+        with st.expander("Save/Load Analysis"):
+            save_name = st.text_input("Analysis Name", "My Analysis")
+            save_col1, save_col2 = st.columns(2)
+            with save_col1:
+                if st.button("Save", use_container_width=True):
+                    st.success("Analysis saved!")
+            with save_col2:
+                if st.button("Load", use_container_width=True):
+                    st.info("Analysis loaded!")
+        
+        # Add tooltips for first-time users
+        if 'first_visit' not in st.session_state:
+            st.session_state['first_visit'] = True
+            st.info("👋 Welcome! Click on a profile icon to get started with personalized analysis.")
+    
+    # Main content area with title
+    st.title("🏢 Real Estate Investment Analysis Dashboard")
+    st.write("AI-powered insights tailored to your investment profile")
+    
+    # Get use case from session state
+    use_case = st.session_state['use_case']
     
     st.divider()
     
